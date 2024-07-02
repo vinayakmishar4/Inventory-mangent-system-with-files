@@ -8,6 +8,7 @@ Update Items: Modify the details of existing items.
 Search Items: Search for items in the inventory using their ID or name.
 Display Inventory: View all items currently in the inventory.
 File Management: Inventory data is stored in files for persistence.
+
 #Requirements
 Python 3.x
 Basic knowledge of file handling in Python
